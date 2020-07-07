@@ -15,5 +15,6 @@ Open _AdminSys_Delphi.dproj_ file on Delphi 10 and edit or import to your person
 - [x] ux-design form
 - [x] get data from brazilian climatempo.com.br api weather 
 - [x] create confi.ini file to edit personal variables users 
-- [ ] config personal replace menu and delete arrays in unt_man.pas
+- [ ] replace menu arrays in unt_man.pas to config settings menu
+- [ ] create a color profiles settings
 
